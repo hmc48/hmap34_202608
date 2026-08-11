@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "geo_34_夜間対応型訪問介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "夜間対応型訪問介護ニックスヘルパー救急隊【夜間対応型訪問介護】広島市東区尾長東二丁目7番28号", "url": "https://www.kaigokensaku.mhlw.go.jp/34/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3490100033-00&ServiceCd=710&Type=search", "url2": "http://www.nix-net.co.jp/" }, "geometry": { "type": "Point", "coordinates": [ 132.488226370674738, 34.398042301447902 ] } },
+{ "type": "Feature", "properties": { "内容": "生協かんおん夜間対応ヘルパーステーション【夜間対応型訪問介護】広島県広島市西区観音町16-19生協けんこうプラザ", "url": "https://www.kaigokensaku.mhlw.go.jp/34/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3490201260-00&ServiceCd=710&Type=search", "url2": "http://www.hch.coop/" }, "geometry": { "type": "Point", "coordinates": [ 132.437074899999971, 34.3945054 ] } },
+{ "type": "Feature", "properties": { "内容": "生協くさつ夜間対応ヘルパーステーション【夜間対応型訪問介護】広島県広島市西区草津東1丁目11-19", "url": "https://www.kaigokensaku.mhlw.go.jp/34/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3490201245-00&ServiceCd=710&Type=search", "url2": "http://www.hch.coop" }, "geometry": { "type": "Point", "coordinates": [ 132.4063338, 34.37882560000002 ] } },
+{ "type": "Feature", "properties": { "内容": "ニックス佐伯ヘルパー救急隊【夜間対応型訪問介護】広島市佐伯区三筋一丁目9-3", "url": "https://www.kaigokensaku.mhlw.go.jp/34/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3490201096-00&ServiceCd=710&Type=search", "url2": "http://www.nix-net.co.jp/" }, "geometry": { "type": "Point", "coordinates": [ 132.34684261031191, 34.365205744960072 ] } },
+{ "type": "Feature", "properties": { "内容": "永和会多機能看護介護ステーション【夜間対応型訪問介護】福山市東村町466-2", "url": "https://www.kaigokensaku.mhlw.go.jp/34/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3491501247-00&ServiceCd=710&Type=search", "url2": "http://www.eiwa-kai.or.jp/index.html" }, "geometry": { "type": "Point", "coordinates": [ 133.240687118289543, 34.461443062636064 ] } }
+]
+}

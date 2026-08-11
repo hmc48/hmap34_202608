@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geo_34_短期入所療養介護（介護医療院）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "長崎病院介護医療院【短期入所療養介護（介護医療院）】広島県広島市西区横川新町３番１１号", "url": "https://www.kaigokensaku.mhlw.go.jp/34/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=34B0200028-00&ServiceCd=551&Type=search", "url2": "http://www.nagasaki-hp.jp" }, "geometry": { "type": "Point", "coordinates": [ 132.446957800000064, 34.4091696 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院はな【短期入所療養介護（介護医療院）】広島県福山市野上町2-10-29", "url": "https://www.kaigokensaku.mhlw.go.jp/34/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=34B1500053-00&ServiceCd=551&Type=search", "url2": "http://www.kanbe.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 133.3627449, 34.4772805 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院みしま【短期入所療養介護（介護医療院）】広島県福山市新市町宮内186-5", "url": "https://www.kaigokensaku.mhlw.go.jp/34/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=34B1500020-00&ServiceCd=551&Type=search", "url2": "https://mishima-iin.com" }, "geometry": { "type": "Point", "coordinates": [ 133.274559900000014, 34.5691696 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院ナーシングホームふれあい【短期入所療養介護（介護医療院）】広島県東広島市西条町寺家7432-1", "url": "https://www.kaigokensaku.mhlw.go.jp/34/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=34B2500029-00&ServiceCd=551&Type=search", "url2": "https://koenkai-gr.jp/" }, "geometry": { "type": "Point", "coordinates": [ 132.7286283, 34.4224668 ] } }
+]
+}

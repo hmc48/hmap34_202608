@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_34_地域密着型特定施設入居者生活介護（有料老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホーム　カーサ　ミーア【地域密着型特定施設入居者生活介護（有料老人ホーム）】廿日市市陽光台3丁目1番地3", "url": "https://www.kaigokensaku.mhlw.go.jp/34/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3492700111-00&ServiceCd=361&Type=search", "url2": "http://www.amano-reha.com" }, "geometry": { "type": "Point", "coordinates": [ 132.311296199999987, 34.3560983 ] } }
+]
+}
